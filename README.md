@@ -1,13 +1,18 @@
+<!-- SNAKE COMMITS -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AngelJeremiasAvellaneda/AngelJeremiasAvellaneda/output/snake.svg" alt="Snake animation" />
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:000000,100:2f2f2f"/>
 
 <div align="center">
   <samp>
     <b>
-      SYSTEMS ENGINEERING STUDENT
+      ESTUDIANTE DE INGENIERÍA DE SISTEMAS E INFORMÁTICA
       <br>
       Ángel Jeremías Avellaneda
       <br>
-      Full Stack Developer · AI Enthusiast
+      Desarrollador Full Stack · Entusiasta de IA
     </b>
   </samp>
 </div>
@@ -15,7 +20,7 @@
 <div align="center">
   <p>
     <img 
-      src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FAngelJeremiasAvellaneda&s=20&c=ffffff&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" 
+      src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FAngelJeremiasAvellaneda&s=20&c=ffffff&bg=00000000&no=2&ff=digi&tb=Visitas+al+Perfil%3A++&ta=" 
     />
   </p>
 </div>
@@ -27,41 +32,41 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AI_×_Code_×_Impact-black" />
+  <img src="https://img.shields.io/badge/IA_×_Código_×_Impacto-black" />
 </div>
 
 <div align="center" width="100%">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ffffff&width=900&size=20&center=true&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Modern+Web+Applications;Turning+Ideas+Into+Code;Welcome+to+my+GitHub" 
+    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ffffff&width=900&size=20&center=true&lines=Desarrollador+Full+Stack;Entusiasta+de+Inteligencia+Artificial+y+Machine+Learning;Construyendo+aplicaciones+web+modernas;Convirtiendo+ideas+en+código;Bienvenido+a+mi+GitHub" 
   />
 </div>
 
 ---
 
-## 🧠 About Me
+## 🧠 Sobre mí
 
-🎓 Systems Engineering & Computer Science student  
-💻 Full Stack Developer focused on modern web technologies  
-🤖 Strong interest in Artificial Intelligence & Machine Learning  
-🧪 Experience working with ML models and data analysis  
-🚀 Passionate about building scalable, real-world solutions  
-📚 Constant learner, driven by curiosity and innovation  
+🎓 Estudiante de **Ingeniería de Sistemas e Informática**  
+💻 **Desarrollador Full Stack** enfocado en tecnologías web modernas  
+🤖 Gran interés en **Inteligencia Artificial y Machine Learning**  
+🧪 Experiencia trabajando con modelos de ML y análisis de datos  
+🚀 Apasionado por crear soluciones reales, escalables y eficientes  
+📚 Aprendiz constante, impulsado por la curiosidad y la innovación  
 
-> I believe technology is not just about code — it's about impact.
-
----
-
-## 🧠 AI & Machine Learning Focus
-
-- Python for data analysis and modeling  
-- Scikit-learn (classification, regression, preprocessing)  
-- Feature engineering & model evaluation  
-- Integration of AI APIs (OpenAI) into real applications  
-- Automation and intelligent systems  
+> Creo que la tecnología no es solo código, sino impacto.
 
 ---
 
-## 🛠 Tech Stack
+## 🤖 Enfoque en Inteligencia Artificial y Machine Learning
+
+- Python para análisis de datos y modelado  
+- Scikit-learn (clasificación, regresión, preprocesamiento)  
+- Feature engineering y evaluación de modelos  
+- Integración de APIs de IA (OpenAI) en aplicaciones reales  
+- Automatización y sistemas inteligentes  
+
+---
+
+## 🛠️ Tecnologías
 
 ### 🎨 Frontend
 <p>
@@ -73,48 +78,48 @@
   <img src="https://skillicons.dev/icons?i=nodejs,java,python&theme=dark" />
 </p>
 
-### 🗄️ Databases
+### 🗄️ Bases de datos
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
 </p>
 
-### 🔧 Tools & Platforms
+### 🔧 Herramientas y plataformas
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,wordpress,postman&theme=dark" />
 </p>
 
 ---
 
-## 🎯 Featured Projects
+## 🎯 Proyectos Destacados
 
-### 🔹 AI-Powered Recommendation System
-> Machine Learning system that analyzes user data and suggests personalized results.
+### 🔹 Sistema de Recomendación con IA
+Sistema de Machine Learning que analiza datos de usuarios y genera recomendaciones personalizadas.
 
 - Python · Scikit-learn  
-- Data preprocessing & model training  
-- Practical ML application  
+- Preprocesamiento de datos y entrenamiento de modelos  
+- Aplicación práctica de ML  
 
 ---
 
-### 🔹 Full Stack Web Platform
-> Modern web app with authentication, backend APIs and responsive UI.
+### 🔹 Plataforma Web Full Stack
+Aplicación web moderna con autenticación, APIs backend y UI responsiva.
 
 - React · Next.js · Tailwind CSS  
-- Node.js REST API  
+- API REST con Node.js  
 - MySQL / PostgreSQL  
 
 ---
 
-### 🔹 Intelligent Automation Tool
-> Automation system integrating AI APIs to optimize workflows.
+### 🔹 Herramienta de Automatización Inteligente
+Sistema de automatización que integra APIs de IA para optimizar flujos de trabajo.
 
 - Python · OpenAI API  
-- Backend logic & integration  
-- Real-world automation use case  
+- Lógica backend e integración  
+- Caso de uso real  
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Analítica de GitHub
 
 <div align="center">
 
@@ -128,12 +133,12 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Conecta conmigo
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white)](#)
 
 </div>
@@ -142,7 +147,7 @@
 
 <div align="center">
   <samp>
-    「 Code. Learn. Build. Evolve. 」
+    「 Codifica. Aprende. Construye. Evoluciona. 」
   </samp>
 </div>
 
