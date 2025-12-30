@@ -1,15 +1,3 @@
-<!-- LANGUAGE SWITCH -->
-<p align="center">
-  <a href="#english">
-    <img src="https://img.shields.io/badge/Language-English-black?style=for-the-badge"/>
-  </a>
-  <a href="#spanish">
-    <img src="https://img.shields.io/badge/Idioma-Español-black?style=for-the-badge"/>
-  </a>
-</p>
-
-<a id="english"></a>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:000000,100:2f2f2f"/>
 
 <div align="center">
@@ -76,29 +64,67 @@
 ## 🛠 Tech Stack
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" />
+</p>
 
 ### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,java,python&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,java,python&theme=dark" />
+</p>
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+</p>
 
 ### 🔧 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,wordpress,postman&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,wordpress,postman&theme=dark" />
+</p>
 
 ---
 
 ## 🎯 Featured Projects
 
 ### 🔹 AI-Powered Recommendation System
-Machine Learning system that analyzes user data and suggests personalized results.
+> Machine Learning system that analyzes user data and suggests personalized results.
+
+- Python · Scikit-learn  
+- Data preprocessing & model training  
+- Practical ML application  
+
+---
 
 ### 🔹 Full Stack Web Platform
-Modern web app with authentication, backend APIs and responsive UI.
+> Modern web app with authentication, backend APIs and responsive UI.
+
+- React · Next.js · Tailwind CSS  
+- Node.js REST API  
+- MySQL / PostgreSQL  
+
+---
 
 ### 🔹 Intelligent Automation Tool
-Automation system integrating AI APIs to optimize workflows.
+> Automation system integrating AI APIs to optimize workflows.
+
+- Python · OpenAI API  
+- Backend logic & integration  
+- Real-world automation use case  
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AngelJeremiasAvellaneda&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AngelJeremiasAvellaneda&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AngelJeremiasAvellaneda&theme=github_dark&utcOffset=8) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngelJeremiasAvellaneda&theme=github_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AngelJeremiasAvellaneda&theme=github-dark)](https://git.io/streak-stats) |
+| :-: | :-: |
+
+</div>
 
 ---
 
@@ -108,40 +134,18 @@ Automation system integrating AI APIs to optimize workflows.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white)](#)
 
 </div>
 
 ---
 
 <div align="center">
-  <samp>「 Code. Learn. Build. Evolve. 」</samp>
+  <samp>
+    「 Code. Learn. Build. Evolve. 」
+  </samp>
 </div>
 
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:000000,100:2f2f2f&section=footer"/>
-
----
-
-<a id="spanish"></a>
-
-## 🇪🇸 Sobre mí (Español)
-
-🎓 Estudiante de **Ingeniería de Sistemas e Informática**  
-💻 Desarrollador **Full Stack** enfocado en tecnologías web modernas  
-🤖 Interesado en **Inteligencia Artificial y Machine Learning**  
-🧪 Experiencia trabajando con modelos de ML y análisis de datos  
-🚀 Apasionado por crear soluciones reales y escalables  
-📚 Aprendiz constante, siempre explorando nuevas tecnologías  
-
-> Creo que la tecnología no es solo código, sino impacto.
-
----
-
-## 🧠 Enfoque en IA y Machine Learning
-
-- Python para análisis de datos y modelado  
-- Scikit-learn (clasificación, regresión, preprocesamiento)  
-- Evaluación de modelos y feature engineering  
-- Integración de APIs de IA (OpenAI)  
-- Automatización inteligente
