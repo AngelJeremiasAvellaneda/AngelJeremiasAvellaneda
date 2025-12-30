@@ -1,104 +1,151 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=38BDF8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:000000,100:2f2f2f"/>
 
 <div align="center">
   <samp>
     <b>
-      システムエンジニア
+      SYSTEMS ENGINEERING STUDENT
       <br>
-      Hola, mi nombre es Ángel Jeremías Avellaneda
+      Ángel Jeremías Avellaneda
       <br>
-      Full Stack Developer
+      Full Stack Developer · AI Enthusiast
     </b>
   </samp>
 </div>
 
 <div align="center">
-  <p align="center">
+  <p>
     <img 
-      align="center" 
-      src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FAngelJeremiasAvellaneda&s=21&c=38BDF8&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" 
+      src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FAngelJeremiasAvellaneda&s=20&c=ffffff&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" 
     />
-  </p> 
-</div>
-
-<br><br>
-
-<div align="center">
-  <img src="https://imgur.com/zeuHIk9.gif" width="200">
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/building_ideas-black" />
-</div>
-
-<div align="center" width="100%">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38BDF8&width=900&size=21&center=true&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas+e+Inform%C3%A1tica;Desarrollador+Full+Stack;Apasionado+por+la+Tecnolog%C3%ADa+y+la+IA;Aprendiz+constante;Bienvenido+a+mi+perfil!" 
-    alt="Typing SVG"
-  />
+  </p>
 </div>
 
 <br>
 
-<details align="center">
-  <summary>
-    <samp>
-      <b>More Info</b>
-    </samp>
-  </summary>
+<div align="center">
+  <img src="https://imgur.com/zeuHIk9.gif" width="180">
+</div>
 
-  <br>
+<div align="center">
+  <img src="https://img.shields.io/badge/AI_×_Code_×_Impact-black" />
+</div>
 
-  <div align="center">
+<div align="center" width="100%">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ffffff&width=900&size=20&center=true&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Modern+Web+Applications;Turning+Ideas+Into+Code;Welcome+to+my+GitHub" 
+  />
+</div>
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AngelJeremiasAvellaneda&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AngelJeremiasAvellaneda&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AngelJeremiasAvellaneda&theme=tokyonight&utcOffset=8) |
-  | :-: | :-: | :-: |
+---
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngelJeremiasAvellaneda&theme=tokyonight) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AngelJeremiasAvellaneda&theme=tokyonight)](https://git.io/streak-stats) |
-  | :-: | :-: |
+## 🧠 About Me
 
-  </div>
+🎓 Systems Engineering & Computer Science student  
+💻 Full Stack Developer focused on modern web technologies  
+🤖 Strong interest in Artificial Intelligence & Machine Learning  
+🧪 Experience working with ML models and data analysis  
+🚀 Passionate about building scalable, real-world solutions  
+📚 Constant learner, driven by curiosity and innovation  
 
-  <br>
+> I believe technology is not just about code — it's about impact.
 
-  <div align="center" style="display: inline_block"><br>
-    <img width="45" src="https://skillicons.dev/icons?i=html" />
-    <img width="45" src="https://skillicons.dev/icons?i=css" />
-    <img width="45" src="https://skillicons.dev/icons?i=js" />
-    <img width="45" src="https://skillicons.dev/icons?i=react" />
-    <img width="45" src="https://skillicons.dev/icons?i=nextjs" />
-    <img width="45" src="https://skillicons.dev/icons?i=tailwind" />
-    <img width="45" src="https://skillicons.dev/icons?i=nodejs" />
-    <img width="45" src="https://skillicons.dev/icons?i=java" />
-    <img width="45" src="https://skillicons.dev/icons?i=python" />
-    <img width="45" src="https://skillicons.dev/icons?i=mysql" />
-    <img width="45" src="https://skillicons.dev/icons?i=postgres" />
-    <img width="45" src="https://skillicons.dev/icons?i=git" />
-    <img width="45" src="https://skillicons.dev/icons?i=github" />
-    <img width="45" src="https://skillicons.dev/icons?i=wordpress" />
-    <img width="45" src="https://skillicons.dev/icons?i=docker" />
-  </div>
+---
 
-  <br><br>
+## 🧠 AI & Machine Learning Focus
 
-  <div align="center">
+- Python for data analysis and modeling  
+- Scikit-learn (classification, regression, preprocessing)  
+- Feature engineering & model evaluation  
+- Integration of AI APIs (OpenAI) into real applications  
+- Automation and intelligent systems  
 
-  [![Gmail](https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:TU_CORREO@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://linkedin.com)
-  [![Discord](https://img.shields.io/badge/Discord-0f172a?style=for-the-badge&logo=discord&logoColor=38BDF8)](#)
+---
 
-  </div>
+## 🛠 Tech Stack
 
-  <div align="center">
-    <p align="center">
-      <samp>
-        ♡ aprendiz ⊹ creador ⊹ desarrollador ⊹ soñador ♡
-      </samp>
-    </p>
-  </div>
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" />
+</p>
 
-</details>
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,java,python&theme=dark" />
+</p>
 
-<br><br>
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=100&section=footer"/>
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,wordpress,postman&theme=dark" />
+</p>
+
+---
+
+## 🎯 Featured Projects
+
+### 🔹 AI-Powered Recommendation System
+> Machine Learning system that analyzes user data and suggests personalized results.
+
+- Python · Scikit-learn  
+- Data preprocessing & model training  
+- Practical ML application  
+
+---
+
+### 🔹 Full Stack Web Platform
+> Modern web app with authentication, backend APIs and responsive UI.
+
+- React · Next.js · Tailwind CSS  
+- Node.js REST API  
+- MySQL / PostgreSQL  
+
+---
+
+### 🔹 Intelligent Automation Tool
+> Automation system integrating AI APIs to optimize workflows.
+
+- Python · OpenAI API  
+- Backend logic & integration  
+- Real-world automation use case  
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AngelJeremiasAvellaneda&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AngelJeremiasAvellaneda&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AngelJeremiasAvellaneda&theme=github_dark&utcOffset=8) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngelJeremiasAvellaneda&theme=github_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AngelJeremiasAvellaneda&theme=github-dark)](https://git.io/streak-stats) |
+| :-: | :-: |
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white)](#)
+
+</div>
+
+---
+
+<div align="center">
+  <samp>
+    「 Code. Learn. Build. Evolve. 」
+  </samp>
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:000000,100:2f2f2f&section=footer"/>
