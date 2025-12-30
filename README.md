@@ -1,7 +1,4 @@
-<!-- SNAKE COMMITS -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AngelJeremiasAvellaneda/AngelJeremiasAvellaneda/output/snake.svg" alt="Snake animation" />
-</p>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:000000,100:2f2f2f"/>
 
@@ -34,7 +31,10 @@
 <div align="center">
   <img src="https://img.shields.io/badge/IA_×_Código_×_Impacto-black" />
 </div>
-
+<!-- SNAKE COMMITS -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AngelJeremiasAvellaneda/AngelJeremiasAvellaneda/output/snake.svg" alt="Snake animation" />
+</p>
 <div align="center" width="100%">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ffffff&width=900&size=20&center=true&lines=Desarrollador+Full+Stack;Entusiasta+de+Inteligencia+Artificial+y+Machine+Learning;Construyendo+aplicaciones+web+modernas;Convirtiendo+ideas+en+código;Bienvenido+a+mi+GitHub" 
