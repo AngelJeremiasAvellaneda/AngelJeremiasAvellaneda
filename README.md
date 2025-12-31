@@ -1,61 +1,38 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:000000,100:2f2f2f"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:1a1a1a"/>
 
 <div align="center">
   <samp>
+    <h2>Angel Jeremias Avellaneda</h2>
     <b>
-      ESTUDIANTE DE INGENIERÍA DE SISTEMAS E INFORMÁTICA
+      Estudiante de Ingeniería de Sistemas e Informática  
       <br>
-      Ángel Jeremías Avellaneda
-      <br>
-      Desarrollador Full Stack · Entusiasta de IA
+      Desarrollador Full Stack · Entusiasta de Inteligencia Artificial
     </b>
   </samp>
-</div>
-
-<p align="center">
-  <a href="#-about-me">🇺🇸 English</a> •
-  <a href="#-sobre-mí">🇪🇸 Español</a>
-</p>
-
-<div align="center">
-  <img 
-    src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FAngelJeremiasAvellaneda&s=20&c=ffffff&bg=00000000&no=2&ff=digi&tb=Visitas+al+Perfil%3A++&ta="
-  />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://imgur.com/zeuHIk9.gif" width="180">
+  <img src="https://imgur.com/zeuHIk9.gif" width="170">
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/IA_×_Código_×_Impacto-black" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/IA_×_Código_×_Impacto-black?style=flat-square" />
+</p>
 
-<!-- 🐍 SNAKE COMMITS (LIGHT MODE) -->
+<!-- 🐍 SNAKE COMMITS -->
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/AngelJeremiasAvellaneda/AngelJeremiasAvellaneda/output/snake.svg"
+    alt="GitHub Snake Animation"
     width="100%"
-    alt="Snake light"
-    #gh-light-mode-only
   />
 </p>
 
-<!-- 🐍 SNAKE COMMITS (DARK MODE) -->
-<p align="center">
+<div align="center">
   <img 
-    src="https://raw.githubusercontent.com/AngelJeremiasAvellaneda/AngelJeremiasAvellaneda/output/snake-dark.svg"
-    width="100%"
-    alt="Snake dark"
-    #gh-dark-mode-only
-  />
-</p>
-
-<div align="center" width="100%">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ffffff&width=900&size=20&center=true&lines=Desarrollador+Full+Stack;Entusiasta+de+Inteligencia+Artificial+y+Machine+Learning;Construyendo+aplicaciones+web+modernas;Convirtiendo+ideas+en+código;Bienvenido+a+mi+GitHub"
+    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ffffff&width=850&size=20&center=true&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Web+Solutions;Turning+Ideas+Into+Code"
   />
 </div>
 
@@ -65,26 +42,26 @@
 
 🎓 Estudiante de **Ingeniería de Sistemas e Informática**  
 💻 **Desarrollador Full Stack** enfocado en tecnologías modernas  
-🤖 Entusiasta de **Inteligencia Artificial y Machine Learning**  
-🧪 Experiencia en análisis de datos y modelos de ML  
+🤖 Interés fuerte en **Inteligencia Artificial y Machine Learning**  
+🧪 Experiencia en análisis de datos y modelos predictivos  
 🚀 Apasionado por crear soluciones reales y escalables  
-📚 Aprendiz constante, impulsado por la curiosidad  
+📚 Aprendiz constante, autodidacta y curioso  
 
-> Creo que la tecnología no es solo código, sino impacto.
+> La tecnología no se trata solo de escribir código, sino de crear impacto.
 
 ---
 
-## 🤖 Enfoque en IA & Machine Learning
+## 🤖 Inteligencia Artificial & Machine Learning
 
-- Python para análisis y modelado  
-- Scikit-learn (clasificación, regresión, preprocessing)  
+- Python para análisis de datos y modelado  
+- Scikit-learn (clasificación, regresión, preprocesamiento)  
 - Feature engineering y evaluación de modelos  
 - Integración de APIs de IA (OpenAI)  
-- Automatización inteligente  
+- Automatización de procesos inteligentes  
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Stack Tecnológico
 
 ### 🎨 Frontend
 <p>
@@ -96,7 +73,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,java,python&theme=dark" />
 </p>
 
-### 🗄️ Bases de datos
+### 🗄️ Bases de Datos
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
 </p>
@@ -111,54 +88,43 @@
 ## 🎯 Proyectos Destacados
 
 ### 🔹 Sistema de Recomendación con IA
-Machine Learning aplicado para generar recomendaciones personalizadas.
+Sistema de Machine Learning que analiza datos de usuarios y genera recomendaciones personalizadas.
 
 - Python · Scikit-learn  
-- Preprocesamiento y entrenamiento  
-- Aplicación real  
+- Limpieza, entrenamiento y evaluación de modelos  
+- Enfoque práctico y real  
 
 ---
 
 ### 🔹 Plataforma Web Full Stack
-Aplicación moderna con autenticación y APIs.
+Aplicación web moderna con arquitectura completa.
 
-- React · Next.js · Tailwind  
-- Node.js REST API  
+- React · Next.js · Tailwind CSS  
+- API REST con Node.js  
 - MySQL / PostgreSQL  
 
 ---
 
 ### 🔹 Automatización Inteligente
-Optimización de flujos usando IA.
+Automatización de flujos de trabajo mediante IA.
 
 - Python · OpenAI API  
 - Integración backend  
-- Caso real  
+- Caso de uso real  
 
 ---
 
-## 📊 Actividad & Commits (3D)
+## 📊 Actividad en GitHub
 
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AngelJeremiasAvellaneda&theme=github-dark&hide_border=true"
-    width="100%"
-  />
-</p>
+<div align="center">
 
----
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AngelJeremiasAvellaneda&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AngelJeremiasAvellaneda&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AngelJeremiasAvellaneda&theme=github_dark&utcOffset=8) |
+| :-: | :-: | :-: |
 
-## 👨‍💻 Minimal Recruiter Version
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngelJeremiasAvellaneda&theme=github_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AngelJeremiasAvellaneda&theme=github-dark)](https://git.io/streak-stats) |
+| :-: | :-: |
 
-**Full Stack Developer · AI Enthusiast**
-
-- React · Next.js · Tailwind CSS  
-- Node.js · Python · Java  
-- Machine Learning (Scikit-learn)  
-- APIs REST · Databases · Docker  
-
-📍 Open to internships & junior roles  
-📫 Contacto: TU_CORREO@gmail.com  
+</div>
 
 ---
 
@@ -176,10 +142,10 @@ Optimización de flujos usando IA.
 
 <div align="center">
   <samp>
-    「 Codifica. Aprende. Construye. Evoluciona. 」
+    「 Code · Learn · Build · Evolve 」
   </samp>
 </div>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:000000,100:2f2f2f&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:1a1a1a&section=footer"/>
