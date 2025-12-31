@@ -1,5 +1,3 @@
-
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:000000,100:2f2f2f"/>
 
 <div align="center">
@@ -14,12 +12,15 @@
   </samp>
 </div>
 
+<p align="center">
+  <a href="#-about-me">🇺🇸 English</a> •
+  <a href="#-sobre-mí">🇪🇸 Español</a>
+</p>
+
 <div align="center">
-  <p>
-    <img 
-      src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FAngelJeremiasAvellaneda&s=20&c=ffffff&bg=00000000&no=2&ff=digi&tb=Visitas+al+Perfil%3A++&ta=" 
-    />
-  </p>
+  <img 
+    src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FAngelJeremiasAvellaneda&s=20&c=ffffff&bg=00000000&no=2&ff=digi&tb=Visitas+al+Perfil%3A++&ta="
+  />
 </div>
 
 <br>
@@ -31,13 +32,30 @@
 <div align="center">
   <img src="https://img.shields.io/badge/IA_×_Código_×_Impacto-black" />
 </div>
-<!-- SNAKE COMMITS -->
+
+<!-- 🐍 SNAKE COMMITS (LIGHT MODE) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AngelJeremiasAvellaneda/AngelJeremiasAvellaneda/output/snake.svg" alt="Snake animation" />
+  <img 
+    src="https://raw.githubusercontent.com/AngelJeremiasAvellaneda/AngelJeremiasAvellaneda/output/snake.svg"
+    width="100%"
+    alt="Snake light"
+    #gh-light-mode-only
+  />
 </p>
+
+<!-- 🐍 SNAKE COMMITS (DARK MODE) -->
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/AngelJeremiasAvellaneda/AngelJeremiasAvellaneda/output/snake-dark.svg"
+    width="100%"
+    alt="Snake dark"
+    #gh-dark-mode-only
+  />
+</p>
+
 <div align="center" width="100%">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ffffff&width=900&size=20&center=true&lines=Desarrollador+Full+Stack;Entusiasta+de+Inteligencia+Artificial+y+Machine+Learning;Construyendo+aplicaciones+web+modernas;Convirtiendo+ideas+en+código;Bienvenido+a+mi+GitHub" 
+    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ffffff&width=900&size=20&center=true&lines=Desarrollador+Full+Stack;Entusiasta+de+Inteligencia+Artificial+y+Machine+Learning;Construyendo+aplicaciones+web+modernas;Convirtiendo+ideas+en+código;Bienvenido+a+mi+GitHub"
   />
 </div>
 
@@ -46,23 +64,23 @@
 ## 🧠 Sobre mí
 
 🎓 Estudiante de **Ingeniería de Sistemas e Informática**  
-💻 **Desarrollador Full Stack** enfocado en tecnologías web modernas  
-🤖 Gran interés en **Inteligencia Artificial y Machine Learning**  
-🧪 Experiencia trabajando con modelos de ML y análisis de datos  
-🚀 Apasionado por crear soluciones reales, escalables y eficientes  
-📚 Aprendiz constante, impulsado por la curiosidad y la innovación  
+💻 **Desarrollador Full Stack** enfocado en tecnologías modernas  
+🤖 Entusiasta de **Inteligencia Artificial y Machine Learning**  
+🧪 Experiencia en análisis de datos y modelos de ML  
+🚀 Apasionado por crear soluciones reales y escalables  
+📚 Aprendiz constante, impulsado por la curiosidad  
 
 > Creo que la tecnología no es solo código, sino impacto.
 
 ---
 
-## 🤖 Enfoque en Inteligencia Artificial y Machine Learning
+## 🤖 Enfoque en IA & Machine Learning
 
-- Python para análisis de datos y modelado  
-- Scikit-learn (clasificación, regresión, preprocesamiento)  
+- Python para análisis y modelado  
+- Scikit-learn (clasificación, regresión, preprocessing)  
 - Feature engineering y evaluación de modelos  
-- Integración de APIs de IA (OpenAI) en aplicaciones reales  
-- Automatización y sistemas inteligentes  
+- Integración de APIs de IA (OpenAI)  
+- Automatización inteligente  
 
 ---
 
@@ -83,7 +101,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
 </p>
 
-### 🔧 Herramientas y plataformas
+### 🔧 Herramientas
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,wordpress,postman&theme=dark" />
 </p>
@@ -93,43 +111,54 @@
 ## 🎯 Proyectos Destacados
 
 ### 🔹 Sistema de Recomendación con IA
-Sistema de Machine Learning que analiza datos de usuarios y genera recomendaciones personalizadas.
+Machine Learning aplicado para generar recomendaciones personalizadas.
 
 - Python · Scikit-learn  
-- Preprocesamiento de datos y entrenamiento de modelos  
-- Aplicación práctica de ML  
+- Preprocesamiento y entrenamiento  
+- Aplicación real  
 
 ---
 
 ### 🔹 Plataforma Web Full Stack
-Aplicación web moderna con autenticación, APIs backend y UI responsiva.
+Aplicación moderna con autenticación y APIs.
 
-- React · Next.js · Tailwind CSS  
-- API REST con Node.js  
+- React · Next.js · Tailwind  
+- Node.js REST API  
 - MySQL / PostgreSQL  
 
 ---
 
-### 🔹 Herramienta de Automatización Inteligente
-Sistema de automatización que integra APIs de IA para optimizar flujos de trabajo.
+### 🔹 Automatización Inteligente
+Optimización de flujos usando IA.
 
 - Python · OpenAI API  
-- Lógica backend e integración  
-- Caso de uso real  
+- Integración backend  
+- Caso real  
 
 ---
 
-## 📊 Analítica de GitHub
+## 📊 Actividad & Commits (3D)
 
-<div align="center">
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AngelJeremiasAvellaneda&theme=github-dark&hide_border=true"
+    width="100%"
+  />
+</p>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AngelJeremiasAvellaneda&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AngelJeremiasAvellaneda&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AngelJeremiasAvellaneda&theme=github_dark&utcOffset=8) |
-| :-: | :-: | :-: |
+---
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngelJeremiasAvellaneda&theme=github_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AngelJeremiasAvellaneda&theme=github-dark)](https://git.io/streak-stats) |
-| :-: | :-: |
+## 👨‍💻 Minimal Recruiter Version
 
-</div>
+**Full Stack Developer · AI Enthusiast**
+
+- React · Next.js · Tailwind CSS  
+- Node.js · Python · Java  
+- Machine Learning (Scikit-learn)  
+- APIs REST · Databases · Docker  
+
+📍 Open to internships & junior roles  
+📫 Contacto: TU_CORREO@gmail.com  
 
 ---
 
