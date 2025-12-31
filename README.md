@@ -21,14 +21,15 @@
   <img src="https://img.shields.io/badge/IA_×_Código_×_Impacto-black?style=flat-square" />
 </p>
 
-<!-- 🐍 SNAKE COMMITS -->
+<!-- 🐍 SNAKE COMMITS DARK -->
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/AngelJeremiasAvellaneda/AngelJeremiasAvellaneda/output/snake.svg"
-    alt="GitHub Snake Animation"
+  <img
+    src="https://raw.githubusercontent.com/AngelJeremiasAvellaneda/AngelJeremiasAvellaneda/output/snake-dark.svg"
+    alt="GitHub Snake Animation Dark"
     width="100%"
   />
 </p>
+
 
 <div align="center">
   <img 
