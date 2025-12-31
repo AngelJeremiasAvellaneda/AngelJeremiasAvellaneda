@@ -39,7 +39,7 @@
 
 ---
 
-## 🧠 Sobre mí
+## Sobre mí
 
 🎓 Estudiante de **Ingeniería de Sistemas e Informática**  
 💻 **Desarrollador Full Stack** enfocado en tecnologías modernas  
@@ -52,7 +52,7 @@
 
 ---
 
-## 🤖 Inteligencia Artificial & Machine Learning
+## Inteligencia Artificial & Machine Learning
 
 - Python para análisis de datos y modelado  
 - Scikit-learn (clasificación, regresión, preprocesamiento)  
@@ -62,7 +62,7 @@
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 ### 🎨 Frontend
 <p>
@@ -79,43 +79,14 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
 </p>
 
-### 🔧 Herramientas
+### Herramientas
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,wordpress,postman&theme=dark" />
 </p>
 
 ---
 
-## 🎯 Proyectos Destacados
-
-### 🔹 Sistema de Recomendación con IA
-Sistema de Machine Learning que analiza datos de usuarios y genera recomendaciones personalizadas.
-
-- Python · Scikit-learn  
-- Limpieza, entrenamiento y evaluación de modelos  
-- Enfoque práctico y real  
-
----
-
-### 🔹 Plataforma Web Full Stack
-Aplicación web moderna con arquitectura completa.
-
-- React · Next.js · Tailwind CSS  
-- API REST con Node.js  
-- MySQL / PostgreSQL  
-
----
-
-### 🔹 Automatización Inteligente
-Automatización de flujos de trabajo mediante IA.
-
-- Python · OpenAI API  
-- Integración backend  
-- Caso de uso real  
-
----
-
-## 📊 Actividad en GitHub
+## Actividad en GitHub
 
 <div align="center">
 
@@ -129,13 +100,12 @@ Automatización de flujos de trabajo mediante IA.
 
 ---
 
-## 🌐 Conecta conmigo
+## Conecta conmigo
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adangel4t@gmail.com)
 
 </div>
 
