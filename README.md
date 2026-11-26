@@ -6,7 +6,7 @@
     <b>
       Estudiante de Ingeniería de Sistemas e Informática  
       <br>
-      Desarrollador Full Stack · Entusiasta de Inteligencia Artificial
+      Desarrollador Software Developer · Entusiasta de Inteligencia Artificial
     </b>
   </samp>
 </div>
@@ -42,7 +42,7 @@
 ## Sobre mí
 
 🎓 Estudiante de **Ingeniería de Sistemas e Informática**  
-💻 **Desarrollador Full Stack** enfocado en tecnologías modernas  
+💻 **Desarrollador Software Developer** enfocado en tecnologías modernas  
 🤖 Interés fuerte en **Inteligencia Artificial y Machine Learning**  
 🧪 Experiencia en análisis de datos y modelos predictivos  
 🚀 Apasionado por crear soluciones reales y escalables  
